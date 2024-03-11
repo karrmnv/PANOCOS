@@ -16,5 +16,6 @@
 ...
 
 ## Для работы библиотеки необходима установка следующих пакетов:
-* **[NumPy](https://numpy.org)**
-* **[OpenCV](https://opencv.org/releases/)**
+* установить Python по инструкции по **[ccылке](https://www.python.org/downloads/)**
+* установить NumPy по инструкции по **[ссылке](https://numpy.org)**
+* установить OpenCV по иснтрукции по **[ссылке](https://opencv.org/releases/)**
